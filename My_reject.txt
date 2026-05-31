@@ -1,0 +1,2 @@
+- DOMAIN-SUFFIX,hybgzs.com,REJECT
+- DOMAIN-SUFFIX,typora.io,REJECT
