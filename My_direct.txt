@@ -1,1 +1,1 @@
-- DOMAIN-SUFFIX,vikingfile.site,DIRECT
+- DOMAIN-SUFFIX,vikingfile.site
