@@ -1,1 +1,7 @@
-- DOMAIN-SUFFIX,vikingfile.site
+
+- DOMAIN-SUFFIX,store.typora.io
+- DOMAIN-SUFFIX,api.typora.io
+- DOMAIN-SUFFIX,cdn.typora.io
+- DOMAIN-SUFFIX,updates.typora.io
+- DOMAIN-SUFFIX,license.typora.io
+- DOMAIN-SUFFIX,typora.io
