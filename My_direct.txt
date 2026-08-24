@@ -1,8 +1,6 @@
-payload:
-  - 'store.typora.io'
-  - 'api.typora.io'
-  - 'cdn.typora.io'
-  - 'updates.typora.io'
-  - 'license.typora.io'
-  - 'typora.io'
-  - '*.hybgzs.com'
+store.typora.io
+api.typora.io
+cdn.typora.io
+updates.typora.io
+license.typora.io
+typora.io
