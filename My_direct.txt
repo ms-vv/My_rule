@@ -5,3 +5,4 @@ updates.typora.io
 license.typora.io
 typora.io
 cycani.org
+ai.hybgzs.com
