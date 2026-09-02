@@ -4,4 +4,4 @@ cdn.typora.io
 updates.typora.io
 license.typora.io
 typora.io
-*.cycani.org
+cycani.org
